@@ -20,6 +20,8 @@ enum Layer: CGFloat {
   case Flash
 }
 
+
+
 struct PhysicsCategory {
   static let None: UInt32 =       0     // 0
   static let Player: UInt32 =     0b1   // 1
